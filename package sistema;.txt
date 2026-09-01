@@ -1,0 +1,63 @@
+package sistema;
+
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		/*Scanner scanner = new Scanner(System.in);
+		
+		
+		System.out.println("Digite seu valor: "); 
+		double preco = scanner.nextInt();
+	
+	
+		
+		if(preco >= 5000) {
+			System.out.println("Desconto de 15%");
+			double porcentagem = 15;
+			double desconto = preco * (porcentagem / 100.0);
+			double precofinal = preco - desconto; 
+			System.out.println("Preço original é: R$ " + preco);
+			System.out.println("Valor descontado de 15%: R$ " + desconto);
+			System.out.println("Valor após o desconto é: R$ " + precofinal);
+		} else if (preco >=4000) {
+			System.out.println("Desconto de 13,45%");
+			double porcentagem = 13.45;
+			double desconto = preco * (porcentagem / 100.0);
+			double precofinal = preco - desconto; 
+			System.out.println("Preço original é: R$ " + preco);
+			System.out.println("Valor descontado de 15%: R$ " + desconto);
+			System.out.println("Valor após o desconto é: R$ " + precofinal);
+		} else if (preco >=2500) {
+			System.out.println("Desconto de 9,5%");
+			double porcentagem = 9.5;
+			double desconto = preco * (porcentagem / 100.0);
+			double precofinal = preco - desconto; 
+			System.out.println("Preço original é: R$ " + preco);
+			System.out.println("Valor descontado de 15%: R$ " + desconto);
+			System.out.println("Valor após o desconto é: R$ " + precofinal);
+		} else {
+			System.out.println("Não tem desconto");
+		} 
+*/		
+		
+	}
+	
+	Scanner scanner = new Scanner(System.in);
+	
+	
+	System.out.println("Digite seu valor: "); 
+	double preco = scanner.nextInt();
+		
+	
+	double porcentagem = 15;
+	double desconto = preco * (porcentagem / 100.0);
+	double precofinal = preco - desconto; 
+	
+	
+	if (preco )
+	
+	
+}
